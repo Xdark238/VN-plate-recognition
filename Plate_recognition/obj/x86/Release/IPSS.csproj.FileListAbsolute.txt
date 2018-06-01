@@ -1,0 +1,4 @@
+E:\New folder (2)\QLGiuxeCs\QLGiuxeCs\obj\x86\Release\IPSS.csprojResolveAssemblyReference.cache
+E:\New folder (2)\QLGiuxeCs\QLGiuxeCs\obj\x86\Release\IPSS.frmDemo.resources
+E:\New folder (2)\QLGiuxeCs\QLGiuxeCs\obj\x86\Release\IPSS.Properties.Resources.resources
+E:\New folder (2)\QLGiuxeCs\QLGiuxeCs\obj\x86\Release\IPSS.csproj.GenerateResource.Cache
